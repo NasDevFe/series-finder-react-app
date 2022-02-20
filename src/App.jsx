@@ -4,7 +4,7 @@ import Sdata from './Sdata.jsx';
 
 const App = () => (
 <>
-<h1 className='heading__top'>Top {Sdata.length} Netflix Series to Bingewatch</h1>
+<h1 className='heading__top'>Top {Sdata.length} Web Series to Bingewatch</h1>
 {/* using Map Function */}
 {Sdata.map((val) => {                                                
     return(
