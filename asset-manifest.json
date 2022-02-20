@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/series-finder-react-app/static/css/main.cddbbc45.css",
-    "main.js": "/series-finder-react-app/static/js/main.dda96a0c.js",
+    "main.js": "/series-finder-react-app/static/js/main.89fb06a0.js",
     "index.html": "/series-finder-react-app/index.html",
     "main.cddbbc45.css.map": "/series-finder-react-app/static/css/main.cddbbc45.css.map",
-    "main.dda96a0c.js.map": "/series-finder-react-app/static/js/main.dda96a0c.js.map"
+    "main.89fb06a0.js.map": "/series-finder-react-app/static/js/main.89fb06a0.js.map"
   },
   "entrypoints": [
     "static/css/main.cddbbc45.css",
-    "static/js/main.dda96a0c.js"
+    "static/js/main.89fb06a0.js"
   ]
 }
